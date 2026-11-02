@@ -1,0 +1,2 @@
+# curso-translate
+curso-translate
